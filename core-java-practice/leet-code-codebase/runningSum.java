@@ -1,4 +1,4 @@
-class Solution {
+class RunningSum {
     public int[] runningSum(int[] nums) {
         int ps = 0;//variable to store the sum till previous index
         int a[] = new int[nums.length];

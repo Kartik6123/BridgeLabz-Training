@@ -1,4 +1,4 @@
-class Solution {
+class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();//hashmap to store the value and its index for O(1) search time
         int a[] = new int[2];

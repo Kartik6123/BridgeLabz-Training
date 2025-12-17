@@ -1,4 +1,4 @@
-class Solution {
+class MajorityElements {
     public int majorityElement(int[] nums) {
         int f = 1;//count frequency
         int ans = nums[0];//assuming first element as majority element

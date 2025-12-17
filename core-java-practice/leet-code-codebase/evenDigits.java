@@ -1,4 +1,4 @@
-class Solution {
+class EvenDigits {
     public int findNumbers(int[] nums) {
         int ans = 0;//to store no of even digit numbers
         for (int i = 0; i < nums.length; i++) {
