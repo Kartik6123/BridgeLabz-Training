@@ -18,3 +18,44 @@
 📌 **All Java solutions:**  
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📅 Day 2 – 17 December
+
+🔧 Git & Git Bash
+
+Practiced Git Bash commands and understood Git workflow
+
+Learned to track new and modified files using git status
+
+Used git add, git commit, and git push effectively
+
+Understood branch-wise commits and repository structure
+
+💻 Core Java – Programming Elements
+
+✅ Add Two Numbers
+
+✅ Area of Circle
+
+✅ Average of Three Numbers
+
+✅ Celsius to Fahrenheit Conversion
+
+✅ Kilometers to Miles Conversion
+
+✅ Perimeter of Rectangle
+
+✅ Power Calculation
+
+✅ Simple Interest
+
+✅ Volume of Cylinder
+
+✅ Welcome to BridgeLabz Program
+
+📌 **All Java solutions:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+📌 All Java programs:
+👉 Click here
