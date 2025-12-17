@@ -1,22 +1,29 @@
-### 📅 Day 1 – 16 December
+📅 Day 1 – 16 December
 
-🔧 **Git & GitHub**
+🔧 Git & GitHub
 
-* Created GitHub repository and linked it with VS Code
-* Learned `git add`, `git commit`, `git push`
-* Worked with branches (`main`, `core-java-practice`)
-* Understood commits, pushing code, and folder structure
+Created GitHub repository and linked it with VS Code
 
-💻 **Core Java – LeetCode Practice**
+Learned git add, git commit, git push
 
-* ✅ Two Sum
-* ✅ Running Sum of 1D Array
-* ✅ Richest Customer Wealth
-* ✅ Palindrome Number
-* ✅ Find Numbers with Even Number of Digits
+Worked with branches (main, core-java-practice)
 
-📌 **All Java solutions:**  
-👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+Understood commits, pushing code, and folder structure
+
+💻 Core Java – LeetCode Practice
+
+✅ Two Sum
+
+✅ Running Sum of 1D Array
+
+✅ Richest Customer Wealth
+
+✅ Palindrome Number
+
+✅ Find Numbers with Even Number of Digits
+
+📌 All Java solutions:
+ 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -54,8 +61,5 @@ Understood branch-wise commits and repository structure
 
 ✅ Welcome to BridgeLabz Program
 
-📌 **All Java solutions:**  
-👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
-
 📌 All Java programs:
-👉 Click here
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
