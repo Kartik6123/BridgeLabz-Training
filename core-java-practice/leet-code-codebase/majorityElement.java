@@ -10,7 +10,7 @@ class Solution {
                 f--;
             }
             if (f == 0) {//if f becomes 0 , we change our ans to current element and reset f to 1 assuming it as majority element
-                ans = nums[i];
+                ans =nums[i];
                 f++;
             }
             i++;
