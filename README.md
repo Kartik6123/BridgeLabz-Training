@@ -24,7 +24,7 @@ Solved basic Java problems to strengthen logic and problem-solving skills:
 ✅ Find Numbers with Even Number of Digits
 
 📌 All Java solutions:
-👉 Click here
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -63,7 +63,7 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 ✅ Welcome to BridgeLabz Program
 
 📌 All Java programs:
-👉 Click here
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -107,4 +107,4 @@ Logical expressions
 Writing structured and optimized code
 
 📌 All Java programs (Level 1 & Level 2):
-👉 Click here
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
