@@ -7,7 +7,7 @@ public class Perimeter {
     // length of square input
     int perimeter = 4 * length;
     // perimeter calculation
-    System.out.println("The perimeter of the square is: " + perimeter);
+    System.out.println("The length of the side is " + length + " whose perimeter is " + perimeter);
     
    } 
 }
