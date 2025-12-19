@@ -106,5 +106,57 @@ Logical expressions
 
 Writing structured and optimized code
 
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📅 Day 4 – Core Java Practice
+
+🔧 Core Java – Control Flow & Loops
+
+Worked on Java programs focusing on conditional statements and loops.
+Practiced solving problems using if-else, while, and for loops with proper input validation.
+
+✅ Programs Completed
+🔹 Conditional Statements
+
+Checked whether a number is Positive, Negative, or Zero
+
+Determined Spring Season based on month and day using Scanner
+
+Checked whether a given year is a Leap Year (single if condition using && and ||)
+
+Calculated BMI and determined weight status
+
+🔹 Loops & Iterations
+
+Printed multiples of a number below 100 using for and while loops
+
+Calculated power of a number using for and while loops
+
+Found factors of a number using for and while loops
+
+Printed odd and even numbers from 1 to n
+
+Implemented rocket launch countdown using while loop
+
+🔹 Mathematical Programs
+
+Found sum of numbers until user enters 0
+
+Found sum until user enters 0 or negative number using break
+
+Calculated sum of n natural numbers:
+
+Using while loop
+
+Using for loop
+
+Verified result using formula n*(n+1)/2
+
+Calculated factorial of a number:
+
+Using while loop
+
+Using for loop
+
 📌 All Java programs (Level 1 & Level 2):
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
