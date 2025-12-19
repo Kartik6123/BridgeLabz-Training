@@ -4,8 +4,8 @@ public class EvenOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);   
         System.out.print("Enter an integer range: ");
-        int n = sc.nextInt();
-        for (int i = 1; i <= n; i++)
+        int no = sc.nextInt();
+        for (int i = 1; i <= no; i++)
             //range of numbers from 1 to n 
             {
             if (i % 2 == 0) {
