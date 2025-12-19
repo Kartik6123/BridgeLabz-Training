@@ -9,6 +9,7 @@ public class Factors2 {
             System.out.println("Please enter a positive integer");
         } else {
             System.out.println("Factors of " + number + " are:");
+            //using while loop to find factors
             int i = 1;
             while (i < number) {
                 //check for factors
