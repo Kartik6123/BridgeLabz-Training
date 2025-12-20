@@ -1,5 +1,9 @@
 🚀 BridgeLabz-Training
-<p align="center"> <b>BridgeLabz – Capgemini Training Repository</b><br> <i>Daily learning • Core Java practice • Problem solving</i> </p>
+
+BridgeLabz – Capgemini Training Repository
+
+This repository documents my daily learning and hands-on practice during the BridgeLabz – Capgemini training program.
+The training focuses on building strong Core Java fundamentals, improving logical thinking, and developing problem-solving skills aligned with industry standards.
 
 🏗️ Repository Structure (High-Level)
 📦 BridgeLabz-Training
@@ -12,12 +16,11 @@
  ┃ ┣ 📂 exceptions      (to be added)
  ┣ 📄 README.md
 
- 🌿 Active Branch
+🌿 Active Branch
 
 🔹 core-java-practice – Current learning and implementation branch
 
 📅 Daily Progress Log
-
 🗓️ Day 1 – 16 December 2025
 
 Focus: Git, GitHub & Logic Building
@@ -31,8 +34,8 @@ git status, git add, git commit, git push
 🧠 Solved 5 LeetCode problems in Java
 
 📌 Improved logical thinking and problem-solving skills
-━━━━━━━━━━━━━━━━━━━━━━━
 
+━━━━━━━━━━━━━━━━━━━━━━━
 
 🗓️ Day 2 – 17 December 2025
 
@@ -49,8 +52,8 @@ Input / Output handling
 Arithmetic operations
 
 Basic conditional logic
-━━━━━━━━━━━━━━━━━━━━━━━
 
+━━━━━━━━━━━━━━━━━━━━━━━
 
 🗓️ Day 3 – 18 December 2025
 
@@ -65,8 +68,8 @@ Operators
 Basic input/output
 
 Foundational logic building
-━━━━━━━━━━━━━━━━━━━━━━━
 
+━━━━━━━━━━━━━━━━━━━━━━━
 
 🗓️ Day 4 – 19 December 2025
 
@@ -82,3 +85,25 @@ Looping constructs (for, while, do-while)
 
 📂 Folder reference:
 👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+
+🧭 How to Navigate
+
+🔀 Use the branch selector on GitHub to switch to core-java-practice
+
+📁 Each topic folder contains Java programs focused on concept clarity
+
+🔄 Repository is updated day-wise as training progresses
+
+🚀 Upcoming Topics
+
+🧱 Object-Oriented Programming (OOP)
+
+📦 Java Collections Framework
+
+⚠️ Exception Handling
+
+🧠 Advanced Java problem solving
+
+⭐ This repository will be continuously updated throughout the BridgeLabz training journey.
+
+ 
