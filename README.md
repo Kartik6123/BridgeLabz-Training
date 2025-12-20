@@ -45,8 +45,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 - 🧠 Solved **5 LeetCode problems** in Java
 - 📌 Improved logical thinking and problem-solving skills
 
-**[👉 Folder reference:] 
-(https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)** 
+-**[👉 Folder reference:] (https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)** 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
