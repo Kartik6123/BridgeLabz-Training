@@ -19,6 +19,8 @@ The training focuses on building **strong Core Java fundamentals**, improving **
  ┃ ┣ 📂 collections     (to be added)
  ┃ ┣ 📂 exceptions      (to be added)
  ┣ 📄 README.md
+
+```
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 🌿 Active Branch
