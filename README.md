@@ -159,4 +159,4 @@ Using while loop
 Using for loop
 
 📌 All Java programs (Level 1,Level 2 & Level 3):
-👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
