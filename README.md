@@ -62,7 +62,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - Basic conditional logic
 
 📂 **Folder reference:**  
-👉 [Programming Elements](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -77,7 +77,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - Foundational logic building
 
 📂 **Folder reference:**  
-👉 [Programming Elements](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -91,7 +91,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - Looping constructs (`for`, `while`, `do-while`)
 
 📂 **Folder reference:**  
-👉 [Programming Elements](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
