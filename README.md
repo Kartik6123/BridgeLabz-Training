@@ -89,5 +89,25 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 **📂 Folder reference:**  
 👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧭 How to Navigate
+
+- 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
+- 📁 Each topic folder contains Java programs focused on concept clarity
+- 🔄 Repository is updated **day-wise** as training progresses
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚀 Upcoming Topics
+
+- 🧱 Object-Oriented Programming (OOP)
+- 📦 Java Collections Framework
+- ⚠️ Exception Handling
+- 🧠 Advanced Java problem solving
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ *This repository will be continuously updated throughout the BridgeLabz training journey.*
 
 
