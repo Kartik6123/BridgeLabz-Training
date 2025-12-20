@@ -22,18 +22,18 @@ public class CoffeeCounter {
                 // Coffee menu options
                 case 1:
                     price =100 * quantity;
-                    // Calculate price for Espresso.Assuming price of Espresso is 100 rupess
+                    // Calculate price for Espresso.Assuming price of Espresso is 100 rupess.
                     System.out.println("----------Bill Details:----------");
                     System.out.println("You ordered " + quantity + " Espresso(s). Total price: " + price+" rupees");
                     break;
                 case 2:
                     price = 120 * quantity;
-                    // Calculate price for Latte. Assuming price of Latte is 120 rupees
+                    // Calculate price for Latte. Assuming price of Latte is 120 rupees.
                     System.out.println("----------Bill Details:----------");
                     System.out.println("You ordered " + quantity + " Latte(s). Total price: " + price+" rupees");
                     break;
                 case 3:
-                     // Calculate price for Cappuccino. Assuming price of Cappuccino is 130 rupees
+                     // Calculate price for Cappuccino. Assuming price of Cappuccino is 130 rupees.
                     price = 130 * quantity;
                     System.out.println("----------Bill Details:----------");
                     System.out.println("You ordered " + quantity + " Cappuccino(s). Total price: " + price+" rupees");
