@@ -45,8 +45,8 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 - 🧠 Solved **5 LeetCode problems** in Java
 - 📌 Improved logical thinking and problem-solving skills
 
-**📂 Folder reference:**  
-👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+**[👉 Folder reference:] 
+(https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)** 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -60,8 +60,8 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - Arithmetic operations
   - Basic conditional logic
 
-**📂 Folder reference:**  
-👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+**[👉 Folder reference:] 
+(https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)** 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -74,8 +74,8 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - Basic input/output
   - Foundational logic building
 
-**📂 Folder reference:**  
-👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+**[👉 Folder reference:] 
+(https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)** 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -87,8 +87,8 @@ The training focuses on building **strong Core Java fundamentals**, improving **
   - `switch-case`
   - Looping constructs (`for`, `while`, `do-while`)
 
-**📂 Folder reference:**  
-👉 https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+**[👉 Folder reference:] 
+(https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)** 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧭 How to Navigate
