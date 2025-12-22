@@ -3,12 +3,12 @@ class  Compare {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first string: ");
-        String str1 = sc.next();
+        String string1 = sc.next();
         System.out.print("Enter second string: ");
-        String str2 = sc.next();
-        boolean result1 = check(str1, str2);
+        String string2 = sc.next();
+        boolean result1 = check(string1, string2);
         // Compare using charAt() method in check function
-        boolean result2 = str1.equals(str2);
+        boolean result2 = string1.equals(string2);
         // Compare using equals() method
         if (result1 == result2) {
             System.out.println("Results are the same using both methods");
