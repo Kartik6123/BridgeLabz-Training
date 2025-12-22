@@ -4,32 +4,31 @@ class UniqueCharFrequencyApp {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter text: ");
+        System.out.print("Enter str: ");
         String str = sc.nextLine();
         String[][] table = buildTable(str);
         for (int r = 0; r < table.length; r++) {
-            System.out.println(table[r][0] + "\t\t" + table[r][1]);
+            System.out.println(table[r][0] + "\t" + table[r][1]);
         }
     }
-
     // Finds unique characters using nested loops
-    static char[] uniqueChar(String text) {
-        int size = text.length();
+    static char[] uniqueChar(String str) {
+        int size = str.length();
         char[] freq = new char[size];
         int pos = 0;
 
         for (int i = 0; i < size; i++) {
-            char current = text.charAt(i);
+            char curr = str.charAt(i);
             boolean repeated = false;
 
             for (int j = 0; j < i; j++) {
-                if (current == text.charAt(j)) {
+                if (curr == str.charAt(j)) {
                     repeated = true;
                     break;
                 }
             }
             if (!repeated) {
-                freq[pos++] = current;
+                freq[pos++] = curr;
             }
         }
         char[] unique = new char[pos];
@@ -40,17 +39,17 @@ class UniqueCharFrequencyApp {
     }
 
     // Builds frequency table using unique characters
-    static String[][] buildTable(String text) {
+    static String[][] buildTable(String str) {
 
         int[] counter = new int[256]; // ASCII frequency array
 
         // Count frequency
-        for (int i = 0; i < text.length(); i++) {
-            counter[text.charAt(i)]++;
+        for (int i = 0; i < str.length(); i++) {
+            counter[str.charAt(i)]++;
         }
 
         // Get unique characters
-        char[] uniques = uniqueChar(text);
+        char[] uniques = uniqueChar(str);
 
         String[][] result = new String[uniques.length][2];
 
