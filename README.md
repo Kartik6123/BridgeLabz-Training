@@ -95,6 +95,32 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+🗓️ Day 5 – 20 December 2025
+
+Focus: Arrays in Core Java
+
+📦 Implemented programs using arrays to store and process data
+
+🧮 Worked on:
+
+Storing odd and even numbers in separate arrays
+
+Finding and storing factors of a number in an array
+
+🔄 Understood:
+
+Array initialization and traversal
+
+Dynamic resizing of arrays using temporary arrays
+
+Index management while inserting elements
+
+🧠 Improved logic building with real-world array use cases
+
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
