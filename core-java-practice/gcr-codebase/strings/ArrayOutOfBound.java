@@ -6,7 +6,7 @@ class ArrayOutOfBound {
         int n = sc.nextInt();
         String[] names = new String[n];
         for (int i = 0; i < n; i++) {
-            System.out.print("Enter name " + (i + 1) + ": ");
+            System.out.print("Enter name:");
             names[i] = sc.nextLine();
         }
         generateException(names);
