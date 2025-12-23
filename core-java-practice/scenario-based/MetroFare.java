@@ -6,7 +6,7 @@ class MetroFare {
         System.out.print("Load initial balance on Metro Smart Card: ₹");
         int balance = sc.nextInt();
         while (balance > 0) {
-            System.out.print("Enter distance. Press 0 to exit): ");
+            System.out.print("Enter distance. Press 0 to exit: ");
             int distance = sc.nextInt();
             if (distance == 0) {
                 System.out.println("Journey ended by user.");
