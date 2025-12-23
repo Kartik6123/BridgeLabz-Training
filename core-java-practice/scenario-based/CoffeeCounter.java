@@ -15,7 +15,7 @@ public class CoffeeCounter {
                 System.out.println("Thank you for visiting! Goodbye!");
                 return;
             }
-            System.out.println("Enter quantity: ");
+            System.out.print("Enter quantity: ");
             int quantity = sc.nextInt();
             double price = 0.0;
             switch (choice) {
