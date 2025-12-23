@@ -122,6 +122,19 @@ Index management while inserting elements
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🟦 WEEK 2 (STRINGS & LOGIC BUILDING)
+
+### 🗓️ Day 1 – 22 December 2025  
+**Focus:** Strings & Logic Building
+
+- 🔤 Solved multiple string-based problems  
+- 🔁 Practiced character traversal, comparison, and recursion  
+- 🧩 Applied frequency-based logic for string validation problems  
+- ⚠️ Understood and handled common runtime exceptions  
+- 🧠 Strengthened problem-solving approach for text manipulation
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
