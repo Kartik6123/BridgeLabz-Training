@@ -24,4 +24,3 @@ class Main {
         return arr;
     }
 }
-
