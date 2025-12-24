@@ -1,8 +1,8 @@
 # 🚀 BridgeLabz-Training  
 
-**BridgeLabz – Capgemini Training Repository**
+**BridgeLabz – Training Repository**
 
-This repository documents my daily learning and hands-on practice during the **BridgeLabz – Capgemini training program**.  
+This repository documents my daily learning and hands-on practice during the **BridgeLabz – Training program**.  
 The training focuses on building **strong Core Java fundamentals**, improving **logical thinking**, and developing **problem-solving skills** aligned with industry standards.
 
 ---
@@ -95,7 +95,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🗓️ Day 5 – 20 December 2025
+### 🗓️ Day 5 – 20 December 2025
 
 Focus: Arrays in Core Java
 
@@ -133,6 +133,27 @@ Index management while inserting elements
 - ⚠️ Understood and handled common runtime exceptions  
 - 🧠 Strengthened problem-solving approach for text manipulation
 
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 23 December 2025  
+**Focus:** Strings & Logic Building
+
+- 🔤 Practiced string problems (palindrome, anagram, traversal)  
+- 🧠 Applied frequency logic and recursion  
+- ⚠️ Handled common string-related runtime exceptions  
+- 🗳️ Solved scenario-based problems (Election Booth & Metro Fare Calculation)  
+- 🎤 Participated in student review  and explained solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 24 December 2025  
+**Focus:** Methods & Logic Building
+
+- 🧩 Practiced method-based questions (parameters, return types)  
+- 🔁 Improved understanding of method calls and reusability  
+- 🧠 Strengthened logical thinking through modular coding  
+- ✍️ Solved problems using multiple methods
+  
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧭 How to Navigate
