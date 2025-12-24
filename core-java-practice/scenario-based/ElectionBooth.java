@@ -12,7 +12,7 @@ class ElectionBooth {
             }
             // Age verification
             if (age >= 18) {
-                System.out.print("Cast your vote 1,2,3: ");
+                System.out.print("Cast your vote 1,2,3:");
                 int vote = sc.nextInt();
                  // Voting process
                 if (vote == 1 || vote == 2 || vote == 3) {
