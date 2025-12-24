@@ -24,8 +24,8 @@ class MetroFare {
             }
             if (balance >= fare) {
                 balance -= fare;
-                System.out.println("Fare deducted: ₹" + fare);
-                System.out.println("Remaining balance: ₹" + balance);
+                System.out.println("Fare deducted:₹" + fare);
+                System.out.println("Remaining balance:₹" + balance);
             } else {
                 System.out.println("Insufficient balance.");
                 break;
