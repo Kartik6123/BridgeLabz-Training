@@ -35,7 +35,7 @@ public class CoffeeCounter {
                 case 3:
                      // Calculate price for Cappuccino. Assuming price of Cappuccino is 130 rupees.
                     price = 130 * quantity;
-                    System.out.println("----------Bill Details:----------");
+                    System.out.println("---------Bill Details:---------");
                     System.out.println("You ordered " + quantity + " Cappuccino(s). Total price: " + price+" rupees");
                     break;
                 default:
