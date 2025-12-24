@@ -18,6 +18,6 @@ public class CheckDuplicates {
                  }
             }
         }
-        System.out.println("Total number of duplicate elements: " + cnt);
+        System.out.println("Total number of duplicate elements " + cnt);
     }
 }
