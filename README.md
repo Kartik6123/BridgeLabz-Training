@@ -156,6 +156,17 @@ Index management while inserting elements
   
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+🗓️ Day 4 – 25 December 2025
+Focus: Strings & Functions
+
+- 🔤 Practiced string handling concepts
+- 🧩 Solved problems like vowel & consonant count and string reversal without built-in methods
+- 🔁 Implemented palindrome check, duplicate removal, substring count, case toggling, anagram check, string comparison etc
+- 🧠 Improved string traversal skills and understanding of methods with parameters & return values
+
+  
+ ━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
