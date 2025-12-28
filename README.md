@@ -167,6 +167,17 @@ Focus: Strings & Functions
   
  ━━━━━━━━━━━━━━━━━━━━━━━
 
+ 🗓️ Day 5 – 26 December 2025  
+Focus: Control Flow, Loops & Built-in Methods (Scenario-Based)
+
+- 🚌 Solved **scenario-based problems** like *Bus Route Distance Tracker* using while-loops, condition checks, and cumulative logic  
+- 🎉 Implemented *Festival Lucky Draw* scenario using modulus operator, if-else conditions, loops, and input validation  
+- 🔁 Practiced looping for multiple users/entries with proper exit conditions  
+- 🧩 Worked on **built-in method–based questions** to understand direct method usage and cleaner logic  
+- 🧠 Strengthened understanding of real-world problem modeling using control flow and functions  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
