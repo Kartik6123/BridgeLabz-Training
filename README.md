@@ -156,8 +156,8 @@ Index management while inserting elements
   
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-🗓️ Day 4 – 25 December 2025
-Focus: Strings & Functions
+### 🗓️ Day 4 – 25 December 2025  
+**Focus:** Strings and Functions
 
 - 🔤 Practiced string handling concepts
 - 🧩 Solved problems like vowel & consonant count and string reversal without built-in methods
@@ -167,8 +167,8 @@ Focus: Strings & Functions
   
  ━━━━━━━━━━━━━━━━━━━━━━━
 
- 🗓️ Day 5 – 26 December 2025  
-Focus: Control Flow, Loops & Built-in Methods (Scenario-Based)
+ ### 🗓️ Day 5 – 26 December 2025  
+ **Focus:** Control Flow, Loops & Built-in Methods (Scenario-Based)
 
 - 🚌 Solved **scenario-based problems** like *Bus Route Distance Tracker* using while-loops, condition checks, and cumulative logic  
 - 🎉 Implemented *Festival Lucky Draw* scenario using modulus operator, if-else conditions, loops, and input validation  
