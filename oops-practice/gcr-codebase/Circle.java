@@ -1,6 +1,6 @@
-public class AreaOfCircle {
+public class Circle {
     int radius;
-    AreaOfCircle(int radius){
+    Circle(int radius){
         this.radius = radius;
         //constructor to initialize radius
     }
@@ -13,7 +13,7 @@ public class AreaOfCircle {
         return 2 * Math.PI * radius;
     }
     public static void main(String[] args) {
-        AreaOfCircle circle = new AreaOfCircle(5);
+        Circle circle = new Circle(5);
         System.out.println("Area: " + circle.calculateArea());
         System.out.println("Circumference: " + circle.calculateCircumference());
     }
