@@ -1,8 +1,8 @@
-public class BookDetails {
+public class Book {
     String title;
     String author;
      double price;
-    BookDetails(String title, String author, double price){
+    Book(String title, String author, double price){
         //constructor to initialize book details
         this.title = title;
         this.author = author;
@@ -15,7 +15,7 @@ public class BookDetails {
         System.out.println("Price: " + price);
     }
     public static void main(String[] args) {
-        BookDetails book = new BookDetails("2 States", "Chetan Bhagat", 500.0);
+        Book book = new Book("2 States", "Chetan Bhagat", 500.0);
         book.display();
     }
 }
