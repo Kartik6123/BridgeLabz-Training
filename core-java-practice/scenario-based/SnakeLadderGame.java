@@ -28,7 +28,6 @@ public class SnakeLadderGame {
                 System.out.println("Player B rolled " + diceValue + " Position: " + posB);
 
                 if (choice != 1) {
-                    // Use Case 7:Extra chance only for ladder
                     isATurn = true;
                 }
             }
