@@ -35,13 +35,15 @@ public class LineComparison{
             System.out.println("Lines are not equal in length1.");
         }
         //USE CASE 3 COMPARING TWO LINES
-        if(length1 > length2) {
+         if(String.valueOf(length1).compareTo(String.valueOf(length2)) > 0) {
             System.out.println("First line is longer than second line.");
-        } else if(length1 < length2) {
-            System.out.println("Second line is longer than first line.");
-        } else {
-            System.out.println("Both lines are of equal length1.");
-        }
+        } 
+        else if(String.valueOf(length1).compareTo(String.valueOf(length2)) < 0) {
+            System.out.println("First line is shorter than second line.");
+        } 
+        else {
+            System.out.println("Both lines are equal in length1.");
     }
+}
 }
 
