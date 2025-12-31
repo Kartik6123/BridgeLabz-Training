@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 
 class MovieTicket {
 

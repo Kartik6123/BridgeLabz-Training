@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 class Student {
     String name;
     String rollNumber;

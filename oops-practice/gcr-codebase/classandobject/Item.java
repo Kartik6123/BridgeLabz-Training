@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 public class Item {
     String itemCode;
     String itemName;

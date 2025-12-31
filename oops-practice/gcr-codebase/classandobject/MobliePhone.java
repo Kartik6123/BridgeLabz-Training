@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 public class MobliePhone {
     String brand;
     String model;

@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 public class Circle {
     int radius;
     Circle(int radius){

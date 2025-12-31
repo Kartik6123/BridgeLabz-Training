@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 public class BankAccount {
     String accountHolder;
     String accountNumber;
@@ -38,3 +38,5 @@ public class BankAccount {
         account.displayAccountDetails(2000.0);
     }
 }
+
+

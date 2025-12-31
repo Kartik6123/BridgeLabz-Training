@@ -1,4 +1,4 @@
-package classesandobjects;
+package classandobject;
 public class Book {
     String title;
     String author;
