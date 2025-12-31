@@ -41,3 +41,9 @@ public class BookThree {
         System.out.println("Author: " + this.getAuthor());
     }
  }
+    class Main{
+        public static void main(String[] args) {
+            Ebook ebook = new Ebook("978-3-16-148410-0", "Java Programming", "Jane Smith");
+            ebook.display();
+        }
+    }
