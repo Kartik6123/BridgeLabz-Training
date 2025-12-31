@@ -178,6 +178,28 @@ Index management while inserting elements
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🟦 WEEK 3 (SCENARIO-BASED PROBLEMS & OOPS CONCEPTS)
+
+### 🗓️ Day 1 – 29 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- Solved real-world scenario-based problems to strengthen logical thinking  
+- Implemented Employability Wage Computation use cases  
+- Practiced Line Comparison problems using object-oriented concepts  
+
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 30 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- Solved the Snake and Ladder game scenario using loops, conditionals, and randomization  
+- Implemented game logic ensuring exact win conditions and move validation  
+- Practiced introductory OOPS concepts through scenario-based problem solving  
+
+
+ ━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
