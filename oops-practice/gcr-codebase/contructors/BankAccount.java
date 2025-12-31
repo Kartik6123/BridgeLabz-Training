@@ -20,14 +20,14 @@ public class BankAccount {
         // getter method
         return this.balance;
     }
-    double setBalance(double newBalance) {
+    void setBalance(double newBalance) {
         //  setter method
         if(newBalance < 0.0) {
             System.out.println("Invalid balance value. It cannot be negative. Old balance retained.");
-            return this.balance;
+            return;
         }
         this.balance = newBalance;
-        return this.balance;
+        
     }
 }
 class SavingAccount extends BankAccount{
