@@ -18,7 +18,7 @@ public class CartItem {
         //method to remove item
         if(quantity > 0){
             quantity-=itemNo;
-            System.out.println("Removed" +quantity+" item(s) from the cart.");
+            System.out.println("Removed" +quantity+" item from the cart.");
         }
         else{
             System.out.println("No items to remove.");
