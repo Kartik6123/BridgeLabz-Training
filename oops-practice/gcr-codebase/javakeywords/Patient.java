@@ -1,5 +1,4 @@
 package javakeywords;
-
 public class Patient {
     static String hospitalName;
     String patientName;
