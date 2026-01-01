@@ -6,7 +6,7 @@ public class Employee {
     String name;
     final int id;
     String designation;
-
+    
     static void displayCompanyInfo() {
         // static method
         System.out.println("Company: " + companyName + ", Total Employees: " + totalEmployees);

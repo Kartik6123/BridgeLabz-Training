@@ -9,12 +9,14 @@ class Book{
         // static method
         System.out.println("Library: " + libraryName);
     }
+
     Book(String title, String author, String isbn) {
         // constructor
         this.title = title;
         this.author = author;
         this.isbn = isbn;
     }
+    
     void displayDetails() {
         // instance method
         if(this instanceof Book){
