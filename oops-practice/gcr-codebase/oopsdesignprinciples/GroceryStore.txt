@@ -32,34 +32,31 @@ class diagram (text format):
 
 2. Object Diagram
 -----------------------------------------------------
-
-description:
-object diagram shows actual customer and products
-at a particular time.
-
-example:
-customer name is alice
-products purchased are apples and milk.
-
-object diagram (text format):
-
+-----------------------------------------------------
 customer1 : Customer
--------------------
+-----------------------------------------------------
 name = "Alice"
-
+-----------------------------------------------------
+        |
+        | buys
+        |
+-----------------------------------------------------
 product1 : Product
-------------------
+-----------------------------------------------------
 productName = "Apples"
 quantity = 2 kg
 price = 3 per kg
+-----------------------------------------------------
 
+-----------------------------------------------------
 product2 : Product
-------------------
+-----------------------------------------------------
 productName = "Milk"
 quantity = 1 liter
 price = 2 per liter
-
 -----------------------------------------------------
+
+
 3. Sequence Diagram
 -----------------------------------------------------
 
