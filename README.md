@@ -95,28 +95,14 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🗓️ Day 5 – 20 December 2025
+### 🗓️ Day 5 – 20 December 2025  
+**Focus:** Arrays in Core Java  
 
-Focus: Arrays in Core Java
-
-📦 Implemented programs using arrays to store and process data
-
-🧮 Worked on:
-
-Storing odd and even numbers in separate arrays
-
-Finding and storing factors of a number in an array
-
-🔄 Understood:
-
-Array initialization and traversal
-
-Dynamic resizing of arrays using temporary arrays
-
-Index management while inserting elements
-
-🧠 Improved logic building with real-world array use cases
-
+- 📦 Implemented programs using arrays to store and process data efficiently  
+- 🧮 Solved problems like storing odd and even numbers in separate arrays and finding factors of a number  
+- 🔄 Practiced array initialization, traversal, and dynamic resizing using temporary arrays  
+- 🧠 Improved logic building through index management and real-world array use cases
+  
 📂 **Folder reference:**  
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
@@ -194,10 +180,29 @@ Index management while inserting elements
 
 - 🎲 Solved the Snake and Ladder game scenario using loops, conditionals, and randomization  
 - 🎯 Implemented game logic ensuring exact win conditions and move validation  
-- 🧩 Practiced introductory OOPS concepts through scenario-based problem solving  
+- 🧩 Practiced introductory OOPS concepts through scenario-based problem solving
 
+ ━━━━━━━━━━━━━━━━━━━━━━━ 
+
+ ### 🗓️ Day 3 – 31 December 2025  
+**Focus:** Methods and Objects  
+
+- 🧱 Learned how classes and objects model real-world entities  
+- 🔧 Practiced creating and invoking methods with parameters and return values  
+- 🔁 Solved basic programs using objects and method calls to improve OOP understanding  
+- 🧠 Gained clarity on object state and behavior through hands-on questions  
 
  ━━━━━━━━━━━━━━━━━━━━━━━
+ 
+ ### 🗓️ Day 4 – 1 January 2026  
+**Focus:** Constructors and Keywords  
+
+- 🏗️ Solved problems on constructors, including default and parameterized constructors  
+- 🔗 Practiced constructor chaining to understand object initialization flow  
+- 🧭 Worked with `this` keyword to differentiate instance variables and parameters  
+- ⚙️ Explored `static` members and understood their behavior across objects  
+
+━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧭 How to Navigate
 
