@@ -1,0 +1,35 @@
++--------------------------------+
+|           University           |
++--------------------------------+
+| - universityName : String      |
+| - students : List<Student>     |
+| - professors : List<Professor> |
++--------------------------------+
+| + addStudent() : void          |
+| + addProfessor() : void        |
++--------------------------------+
+        ◇ Aggregation (HAS-A)              ◇ Aggregation (HAS-A)
+        |                                  |
+        |                                  |
++-------------------------------+   +--------------------------------+
+|            Student            |   |            Professor           |
++-------------------------------+   +--------------------------------+
+| - studentId : int             |   | - professorId : int             |
+| - studentName : String        |   | - professorName : String        |
+| - courses : List<Course>      |   | - courses : List<Course>        |
++-------------------------------+   +--------------------------------+
+| + enrollCourse() : void       |   | + assignProfessor() : void      |
+| + viewCourses() : void        |   | + teachCourse() : void          |
++-------------------------------+   +--------------------------------+
+            Association (Enrolls)        Association (Teaches)
+            --------------------        ----------------------
+                     |                          |
+                     |                          |
+                +--------------------------------+
+                |             Course             |
+                +--------------------------------+
+                | - courseId : int               |
+                | - courseName : String          |
+                +--------------------------------+
+                | + showCourseDetails() : void   |
+                +--------------------------------+
