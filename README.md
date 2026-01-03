@@ -200,9 +200,29 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 - 🏗️ Solved problems on constructors, including default and parameterized constructors  
 - 🔗 Practiced constructor chaining to understand object initialization flow  
 - 🧭 Worked with `this` keyword to differentiate instance variables and parameters  
-- ⚙️ Explored `static` members and understood their behavior across objects  
+- ⚙️ Explored `static` members and understood their behavior across objects
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 2 January 2026  
+**Focus:** Classes, Objects, and Diagrams  
+
+- 🧱 Practiced designing **classes and objects** to model real-world entities  
+- 📐 Created **class–object diagrams** to visualize structure and relationships  
+- 🧩 Solved **scenario-based questions** by identifying attributes, methods, and object interactions  
+- 🔍 Improved understanding of object instantiation and collaboration within a system  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 3 January 2026  
+**Focus:** Inheritance  
+
+- 🌳 Solved problems based on **inheritance** (IS-A relationship)  
+- 🧬 Practiced using `extends` to reuse properties and methods from parent classes  
+- 🧩 Solved **two scenario-based questions** involving superclass–subclass modeling  
+- 🔁 Improved understanding of method reuse and hierarchy-based design
+
+  ━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧭 How to Navigate
 
