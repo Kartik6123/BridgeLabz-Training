@@ -38,12 +38,12 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 - 🔧 Set up GitHub repository and folder structure
 - 🔄 Practiced Git workflow:
-  - `git status`
-  - `git add`
-  - `git commit`
-  - `git push`
+  - 📌 `git status`
+  - ➕ `git add`
+  - 📝 `git commit`
+  - 🚀 `git push`
 - 🧠 Solved **5 LeetCode problems** in Java
-- 📌 Improved logical thinking and problem-solving skills
+- 📈 Improved logical thinking and problem-solving skills
 
 - 📂 **Folder reference:**  
   👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
@@ -56,10 +56,10 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 - 💻 Practiced introductory Core Java programs
 - 📚 Covered:
-  - Java syntax
-  - Input / Output handling
-  - Arithmetic operations
-  - Basic conditional logic
+  - 🧾 Java syntax
+  - ⌨️ Input / Output handling
+  - ➕ Arithmetic operations
+  - 🔀 Basic conditional logic
 
 📂 **Folder reference:**  
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
@@ -71,10 +71,10 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 **Focus:** Programming Elements
 
 - 🧩 Implemented Core Java programs using:
-  - Variables and data types
-  - Operators
-  - Basic input/output
-  - Foundational logic building
+  - 🧮 Variables and data types
+  - ➗ Operators
+  - ⌨️ Basic input/output
+  - 🧠 Foundational logic building
 
 📂 **Folder reference:**  
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
@@ -86,9 +86,9 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 **Focus:** Control Flow Statements
 
 - 🔁 Implemented programs using:
-  - `if`, `if-else`, `else-if`
-  - `switch-case`
-  - Looping constructs (`for`, `while`, `do-while`)
+  - 🔀 `if`, `if-else`, `else-if`
+  - 🔂 `switch-case`
+  - 🔄 Looping constructs (`for`, `while`, `do-while`)
 
 📂 **Folder reference:**  
 👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
@@ -222,7 +222,19 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 - 🧩 Solved **two scenario-based questions** involving superclass–subclass modeling  
 - 🔁 Improved understanding of method reuse and hierarchy-based design
 
-  ━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 4 (OOPS SCENARIO-BASED PRACTICE)
+
+### 🗓️ Day 20 – 5 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧭 How to Navigate
 
