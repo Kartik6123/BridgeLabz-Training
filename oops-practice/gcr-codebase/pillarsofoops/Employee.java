@@ -27,7 +27,7 @@ abstract public class Employee {
 
  class FullTimeEmployee extends Employee implements Department {
   // Inheritance and Interface Implementation
-  String deptInfo;
+   String deptInfo;
     int hoursWorked;
     FullTimeEmployee(String employeeId, String name, int baseSalary,int hoursWorked){ 
      super.setId(employeeId);
@@ -49,7 +49,6 @@ abstract public class Employee {
       System.out.println("Department Info: " + deptInfo);
 }
 }
-
    class PartTimeEmployee extends Employee  implements Department {
     // Inheritance and Interface Implementation
     String deptInfo;
