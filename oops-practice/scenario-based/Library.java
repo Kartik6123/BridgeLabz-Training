@@ -17,8 +17,8 @@ class Book {
         this.isAvailable = isAvailable;
     }
 }
-
-class LibrarySystem {
+class LibrarySystem
+ {
 
     static void displayBooks(List<Book> books) {
         for (Book b : books) {
