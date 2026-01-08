@@ -1,3 +1,4 @@
+package linkedlist;
 public class MovieManagement {
     // Inner Node class representing each movie record
     class Node {

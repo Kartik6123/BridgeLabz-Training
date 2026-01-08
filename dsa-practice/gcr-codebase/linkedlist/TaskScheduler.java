@@ -1,3 +1,4 @@
+package linkedlist;
 public class TaskScheduler {
     // Inner Node class representing each task
     class Node {

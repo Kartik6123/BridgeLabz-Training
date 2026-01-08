@@ -1,3 +1,4 @@
+package linkedlist;
 public class TicketReservationSystem {
 
     // Node class representing each ticket

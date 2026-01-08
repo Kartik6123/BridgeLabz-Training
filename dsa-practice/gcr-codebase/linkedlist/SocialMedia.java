@@ -1,3 +1,4 @@
+package linkedlist;
 public class SocialMedia {
 
     // Friend list node

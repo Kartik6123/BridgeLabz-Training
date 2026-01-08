@@ -1,3 +1,4 @@
+package linkedlist;
 public class InventoryManagement {
 
     // Node class representing each inventory item
