@@ -4,17 +4,17 @@ public class TicketReservationSystem {
     // Node class representing each ticket
     class Node {
         int ticketId;
-        String customerName;
+        String name;
         String movieName;
         String seatNumber;
         String bookingTime;
         Node next;
 
         // Constructor to initialize ticket details
-        Node(int ticketId, String customerName, String movieName,
+        Node(int ticketId, String name, String movieName,
              String seatNumber, String bookingTime) {
             this.ticketId = ticketId;
-            this.customerName = customerName;
+            this.name = name;
             this.movieName = movieName;
             this.seatNumber = seatNumber;
             this.bookingTime = bookingTime;
@@ -26,10 +26,10 @@ public class TicketReservationSystem {
     Node head;
 
     // Add a new ticket at the end
-    void addTicket(int ticketId, String customerName,
+    void addTicket(int ticketId, String name,
                    String movieName, String seatNumber, String bookingTime) {
 
-        Node newNode = new Node(ticketId, customerName, movieName, seatNumber, bookingTime);
+        Node newNode = new Node(ticketId, name, movieName, seatNumber, bookingTime);
 
         if (head == null) {
             head = newNode;
@@ -96,7 +96,7 @@ public class TicketReservationSystem {
         boolean found = false;
 
         do {
-            if (temp.customerName.equalsIgnoreCase(key) ||
+            if (temp.name.equalsIgnoreCase(key) ||
                 temp.movieName.equalsIgnoreCase(key)) {
                 displayTicket(temp);
                 found = true;
@@ -129,7 +129,7 @@ public class TicketReservationSystem {
     void displayTicket(Node node) {
         System.out.println(
                 node.ticketId + " " +
-                node.customerName + " " +
+                node.name + " " +
                 node.movieName + " " +
                 node.seatNumber + " " +
                 node.bookingTime
