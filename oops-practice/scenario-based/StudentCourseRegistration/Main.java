@@ -9,12 +9,10 @@ public class Main {
             PrintDetails details1 = new PrintDetails(course1, student, grade1);
             grade1.assignGrade(95);
             details1.displayDetails();
-
             Course course2 = new Course("Physics", 202, 600,student);
             grade1.assignGrade(88);
             PrintDetails details2=new PrintDetails(course2, student, grade1);
             details2.displayDetails();
-            
             Course course3 = new Course("Chemistry", 203, 550,student);
             grade1.assignGrade(76);
             Course course4 = new Course("Biology", 204, 650,student);

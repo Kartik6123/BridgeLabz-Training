@@ -16,7 +16,7 @@ public class Grade {
         } else if (marks >= 60) {
             this.grade = "D";
         } else {
-            this.grade                                                                                                                                                                                                                                                                     = "F";
+            this.grade = "F";
         }
         this.marks = marks;
     }
