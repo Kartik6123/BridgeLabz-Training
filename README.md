@@ -266,6 +266,38 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🗓️ Day 5 – 9 January 2026  
+**Focus:** OOPS + CRUD Applications
+
+- 🏥 Hospital Patient Management System using OOPS & CRUD  
+- 🚗 Vehicle Rental Application with interfaces and inheritance  
+- ✈️ Flight Booking System using arrays, lists, and string operations  
+- 📌 Applied Encapsulation, Abstraction, Inheritance, Polymorphism
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (OOPS SCENARIO-BASED AND DSA PRACTICE)
+
+### 🗓️ Day 1 – 12 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world, scenario-based OOPS problems** using Java  
+- 🧱 Implemented **abstraction, inheritance, encapsulation, and interfaces** in practical designs  
+- 🔁 Enhanced understanding of **polymorphism** through dynamic method execution  
+- 📌 Improved confidence in building **well-structured and logically sound Java applications**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 13 January 2026  
+**Focus:** Scenario-Based Programming + Data Structures
+
+- 🧩 Solved additional **real-world, scenario-based problems** using Java  
+- 📚 Implemented **Stack and Queue** to handle practical use cases  
+- 🗂️ Used **HashMap** for efficient data storage and retrieval  
+- 📌 Strengthened problem-solving skills by combining **OOPS with data structures**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
