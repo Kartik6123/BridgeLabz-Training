@@ -1,4 +1,4 @@
-package CabBooking;
+ 
 public class Ride{
     String RideID;
     User user;

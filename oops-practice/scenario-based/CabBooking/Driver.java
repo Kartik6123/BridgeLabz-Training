@@ -1,4 +1,4 @@
-package CabBooking;
+
 class NoDriverAvailableException extends Exception {
     NoDriverAvailableException(String msg) {
         super(msg);

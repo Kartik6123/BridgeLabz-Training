@@ -1,4 +1,3 @@
-package CabBooking;
 
 public class User {
     String UserName;

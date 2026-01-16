@@ -1,4 +1,4 @@
-package CabBooking;
+
 interface FareCalculator{
     double calculateFare(String source, String destination);
 }
