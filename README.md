@@ -298,6 +298,26 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🗓️ Day 3 – 14 January 2026  
+**Focus:** Scenario-Based Programming + Stack Practice
+
+- ✈️ Solved **real-world scenario-based problems** such as **Flight Booking System** using Java  
+- 📚 Practiced and solved **more Stack-based problems** to strengthen understanding  
+- 🧠 Improved logical thinking by applying **data structures to practical scenarios**  
+- 🚀 Enhanced confidence in handling **problem statements with real-life context**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 15 January 2026  
+**Focus:** Sorting Algorithms + Real-World Applications
+
+- 🔢 Studied and implemented **sorting algorithms** using Java  
+- 🏢 Applied **sorting techniques to real-world scenarios** for better understanding  
+- 📒 Started working on the **Address Book problem** and designed its basic structure  
+- 🚀 Improved confidence in solving **data-structure-driven scenario problems**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
