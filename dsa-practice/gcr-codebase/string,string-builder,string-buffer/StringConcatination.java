@@ -8,7 +8,7 @@ class StringConcatenation {
         for (int i = 0; i < arr.length; i++) {
             sb.append(arr[i]);
         }
-        System.out.println(sb.toString());
+        System.out.println("Concatenated string: " + sb.toString());
     }
 }
 
