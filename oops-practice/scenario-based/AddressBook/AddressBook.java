@@ -1,7 +1,7 @@
 import java.util.*;
 public class AddressBook {
 	public static void main(String[] args) {
-		Contact c1 = new Contact("Arpit", "Gupta", "Firozabad", "Firozabad", "283203", "7505XXXXXX", "xyz@gmail.com");
+		Contact c1 = new Contact("Kartik", "Arora", "Firozabad", "Firozabad", "283203", "7505XXXXXX", "xyz@gmail.com");
 		
 		AddressBookService.addContact(c1);
 		
