@@ -318,6 +318,55 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🗓️ Day 5 – 16 January 2026  
+**Focus:** Algorithm Runtime Analysis & Big-O Notation  
+📊 Understood runtime analysis with time & space complexity  
+📈 Learned Big-O including best, worst & average cases  
+⚙️ Explored practical Java code optimization guidelines  
+🚀 Improved analytical thinking for performance-focused coding  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 17 January 2026  
+**Focus:**  Algorithm Analysis – Assignment Practice  
+
+🧠 Implemented concepts of runtime analysis through coding questions  
+📊 Solved time & space complexity–based assignment problems  
+📈 Applied Big-O (best, worst & average cases) in real questions  
+🚀 Strengthened problem-solving with performance-focused thinking  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (DSA SCENARIO BASED AND COLLECTIONS PRACTICE)
+
+### 🗓️ Day 1 – 19 January 2026  
+**Focus:**  Scenario-Based DSA Problem Solving  
+🌐 Solved *BrowserBuddy* using Doubly Linked List + Stack for tab history & restore  
+📦 Implemented *ParcelTracker* with Singly Linked List for delivery stage tracking  
+📝 Built *ExamProctor* using Stack + HashMap with functions for evaluation logic  
+🚀 Strengthened confidence in real-world, scenario-driven DSA applications  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 20 January 2026  
+**Focus:** OOP Polymorphism, Abstraction & Generics  
+
+🏦 Solved *BankAccount Hierarchy* using abstract classes, immutability & polymorphic fee calculation  
+👨‍💼 Implemented *Employee Role Polymorphism* with optimized bonus logic and caching  
+🧩 Studied Java Generics for type safety, reusability & performance  
+🎤 Participated in student review  and explained solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 21 January 2026  
+**Focus:** Java Generics – Conceptual & Problem Practice  
+📘 Studied core Java Generics concepts for type safety  
+🧪 Practiced Generics-based questions and assignments  
+⚙️ Worked with generic classes, methods & bounds  
+🚀 Improved confidence in applying Generics to problem-solving  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
