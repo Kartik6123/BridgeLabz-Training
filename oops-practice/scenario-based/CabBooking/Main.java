@@ -24,11 +24,15 @@ public class Main {
         double fare = normalFare.calculateFare(source, destination);
         Ride ride1 = new Ride("R001", user1, driver1, source, destination, fare);
         ride1.displayRideDetails();
-        }else{
+        }else if(distance>=10&&distance<=50){
             PeakHourPricing peakFare = new PeakHourPricing(distance);
             double fare = peakFare.calculateFare(source, destination);
             Ride ride1 = new Ride("R001", user1, driver1, source, destination, fare);
             ride1.displayRideDetails();
+        }
+        else{
+            System.out.print("No cab available");
+            return;
         }
     }
     catch(NoDriverAvailableException e){
