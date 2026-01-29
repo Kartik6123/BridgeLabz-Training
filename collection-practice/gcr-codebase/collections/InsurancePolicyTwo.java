@@ -1,4 +1,5 @@
 import java.time.*;
+import java.util.*;
 
 class InsurancePolicyTwo {
     int no;
@@ -19,8 +20,6 @@ class InsurancePolicyTwo {
         return no + " " + holder + " " + exp + " " + type + " " + prem;
     }
 }
-import java.util.*;
-import java.time.*;
 
 class PolicyStore {
     Map<Integer, InsurancePolicyTwo> hm = new HashMap<>();
