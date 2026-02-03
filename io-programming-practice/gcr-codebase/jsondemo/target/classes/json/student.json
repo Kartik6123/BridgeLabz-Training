@@ -1,0 +1,10 @@
+{
+  "name": "Abhinav",
+  "age": 22,
+  "city": "Aligarh",
+  "subjects": ["Java", "Python", "DBMS"],
+  "address": {
+    "state": "UP",
+    "country": "India"
+  }
+}
