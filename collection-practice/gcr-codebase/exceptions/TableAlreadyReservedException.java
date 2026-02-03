@@ -6,7 +6,7 @@ class InvalidAgeException extends Exception {
     }
 }
 
-public class CustomException {
+public class TableAlreadyReservedException {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
