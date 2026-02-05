@@ -367,6 +367,90 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🗓️ Day 4 – 22 January 2026  
+**Focus:** Java Data Structures – Queue, HashMap & Singly Linked List  
+📘 Implemented SmartCheckout using Queue and HashMap for billing and inventory management  
+🧪 Practiced ParcelTracker using Singly Linked List for delivery stage tracking  
+⚙️ Applied safe null handling and dynamic updates in real-world data flow  
+🚀 Strengthened problem-solving skills through practical data structure scenarios
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 23 January 2026  
+**Focus:** Java I/O Streams – File Handling & Data Flow  
+📘 Studied core Java I/O Streams including byte and character streams  
+🧪 Practiced questions on reading from and writing to files  
+⚙️ Worked with File, FileInputStream, FileOutputStream, and Buffered streams  
+🚀 Improved understanding of efficient data handling and stream-based operations
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (JAVA COLLECTIONS AND IO PRACTICE)
+
+### 🗓️ Day 1 – 27 January 2026  
+**Focus:** Java Exception Handling – Concepts & Practice  
+📘 Studied checked and unchecked exceptions with try-catch-finally  
+🧪 Practiced and submitted exception handling based questions  
+⚙️ Worked with custom exceptions, throw, and throws keywords  
+🚀 Improved confidence in writing robust and fault-tolerant Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 28 January 2026  
+**Focus:** Java Regex & JUnit – Pattern Matching and Testing  
+📘 Studied regular expressions and JUnit fundamentals  
+🧪 Solved a scenario-based problems named *Lexical Twist* and *Flip Key*  
+⚙️ Applied regex for validation and JUnit for test case verification  
+🚀 Improved confidence in writing testable and reliable Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 29 January 2026  
+**Focus:** Java Annotations & Reflection – Metadata and Runtime Processing  
+📘 Studied custom annotations and Java Reflection API  
+🧪 Solved a scenario-based problem named *FutureLogistics*  
+⚙️ Applied reflection to inspect annotations and invoke methods dynamically  
+🚀 Improved understanding of runtime behavior and advanced Java features
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 30 January 2026  
+**Focus:** CSV Data Handling – File Processing and Parsing  
+📘 Studied reading and writing CSV data using Java I/O  
+🧪 Solved problems related to parsing and processing CSV files  
+⚙️ Implemented data extraction, validation, and storage logic  
+🚀 Improved confidence in handling structured file-based data
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (JAVA 8 FEATURES PRACTICE)
+### 🗓️ Day 1 – 2 February 2026  
+**Focus:** Java Lambda Expressions – Functional Programming Basics  
+📘 Studied and applied lambda expressions in Java  
+🧪 Solved a scenario-based problem named *AEROVIRGIL*  
+⚙️ Implemented functional interfaces and concise logic using lambdas  
+🚀 Improved confidence in writing clean and expressive Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 3 February 2026  
+**Focus:** JSON File Handling – Advanced Parsing and Processing  
+📘 Studied and submitted extended questions on JSON file handling  
+🧪 Solved a scenario-based problem named *Stream Buzz*  
+⚙️ Implemented JSON reading, writing, and data mapping logic  
+🚀 Improved confidence in handling structured JSON data in Java
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 4 February 2026  
+**Focus:** Java Stream API – Functional Data Processing  
+📘 Studied core Stream API concepts including map, filter, and reduce  
+🧪 Solved problems using streams on collections  
+⚙️ Applied method references and stream pipelines effectively  
+🚀 Improved confidence in writing concise and efficient stream-based code
+`
+
+
 ## 🧭 How to Navigate
 
 - 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
