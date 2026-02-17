@@ -25,6 +25,7 @@ public class Employee {
                     Collectors.averagingDouble(Employee::getSalary)
                 )
             );
+       
 
         System.out.println(m);
     }

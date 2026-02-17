@@ -52,7 +52,7 @@ public class Top5TrendingMovies {
 
             // Limit result to top 5 movies
             .limit(5)
-
+ 
             // Collect result into a list
             .collect(Collectors.toList());
 
