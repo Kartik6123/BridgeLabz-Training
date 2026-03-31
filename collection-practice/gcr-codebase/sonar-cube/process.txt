@@ -1,0 +1,98 @@
+PART 1 — INSTALL SONARQUBE SERVER
+
+1. Download SonarQube Community Edition from:
+   [https://www.sonarsource.com/products/sonarqube/downloads/](https://www.sonarsource.com/products/sonarqube/downloads/)
+
+2. Extract the ZIP file to:
+   C:\sonarqube
+
+3. Start SonarQube Server:
+   Go to:
+   C:\sonarqube\bin\windows-x86-64
+   Run:
+   StartSonar.bat
+
+4. Wait until console shows:
+   SonarQube is operational
+
+5. Open SonarQube Dashboard in browser:
+    http://localhost:9000
+
+6. Login using:
+   Username: admin
+   Password: admin
+   Change password when prompted.
+
+7. Generate Authentication Token:
+   User Icon -> My Account -> Security -> Generate Token
+   Copy and save the token.
+
+
+PART 2 — INSTALL MAVEN
+
+1. Download Maven from:
+   https://maven.apache.org/download.cgi
+
+2. Extract Maven to:
+   C:\Program Files\Apache\Maven
+
+3. Set Environment Variable:
+   Variable Name: MAVEN_HOME
+   Variable Value: C:\Program Files\Apache\Maven\apache-maven-3.x.x
+
+4. Add to System PATH:
+   %MAVEN_HOME%\bin
+
+5. Verify Maven Installation:
+   Open Command Prompt and run:
+   mvn -v
+
+
+PART 3 — CREATE MAVEN PROJECT IN ECLIPSE
+
+1. Open Eclipse
+2. File → New → Maven Project
+3. Enter:
+   Group Id: Health_Clinic_App
+   Artifact Id: Heath_Clinic_App
+4. Finish project creation.
+5. Ensure pom.xml is present.
+
+
+PART 4 — RUN SONARQUBE ANALYSIS FOR PROJECT
+
+1. Open Command Prompt
+
+2. Navigate to project folder (where pom.xml exists):
+   cd C:\Users\Abhinav\eclipse-workspace\Health_Clinic_App
+
+3. Run SonarQube analysis command:
+
+   mvn clean verify sonar:sonar -Dsonar.projectKey=HealthClinicTest -Dsonar.host.url=http://localhost:9000 -Dsonar.login=YOUR_TOKEN
+
+   Replace YOUR_TOKEN with generated SonarQube token.
+
+4. Wait until build shows BUILD SUCCESS.
+
+5. Link of the project: https://github.com/TomarAbhin/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic-app/Health_Clinic_App
+
+
+PART 5 — VIEW ANALYSIS RESULT
+
+1. Open browser:
+    http://localhost:9000
+
+2. Open project "Demo"
+
+3. View:
+   Quality Gate Status
+   Bugs
+   Vulnerabilities
+   Code Smells
+   Coverage Report
+
+
+**Attached some images which shows :
+1. Running of SonarService.bat
+2. Build Success 
+3. Report of the project
